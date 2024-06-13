@@ -5,6 +5,8 @@ This Project features:
 - React JS, Tailwind and TypeScript.
 - Vite, Node, JSX.
 
-Project tutorial from How to Become a Developer - Link to YouTube video - https://www.youtube.com/watch?v=v9q7g9SJkL0&t=65s&ab_channel=HowtoBecomeaDeveloper
+Project tutorial from How to Become a Developer
+- Link to YouTube video -
+https://www.youtube.com/watch?v=v9q7g9SJkL0&t=65s&ab_channel=HowtoBecomeaDeveloper
 
 -- Educational purposes only --
