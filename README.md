@@ -1,6 +1,7 @@
 LINK TO DEMO - https://financial-react-app-kobodrop.netlify.app/
 
 A fully responsive financial app landing page using React JS and Tailwind CSS
+
 This Project features: 
 - React JS, Tailwind and TypeScript.
 - Vite, Node, JSX.
